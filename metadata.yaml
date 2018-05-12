@@ -1,0 +1,29 @@
+_repo: Authorised-Guide-to-the-Tower-of-London_13436
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loftie, W. J. (William John)
+    alias: Loftie, William John
+    birthdate: 1839
+    deathdate: 1911
+    gutenberg_agent_id: '5045'
+    url: http://www.gutenberg.org/2009/agents/5045
+    wikipedia: http://en.wikipedia.org/wiki/W._J._Loftie
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tower of London (London, England) -- Guidebooks'
+- !lcc 'DA'
+title: Authorised Guide to the Tower of London
+url: http://www.gutenberg.org/ebooks/13436
